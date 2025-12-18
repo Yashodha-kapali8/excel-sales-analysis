@@ -13,4 +13,4 @@ This is my first Excel project.
 - Microsoft Excel
 
 ## Learning Outcome
-This project helped me understand data organization, pivot tables, and basic analysis.
+This project helped me understand data organization, pivot tables, and analysis.
